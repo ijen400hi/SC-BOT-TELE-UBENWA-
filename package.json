@@ -1,0 +1,16 @@
+{
+  "name": "telegram-bot-uben-wa",
+  "version": "1.0.0",
+  "description": "Telegram bot for WhatsApp unblock texts and antivirus checks",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "axios": "^1.6.0",
+    "form-data": "^4.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
